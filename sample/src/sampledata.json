@@ -1,0 +1,34 @@
+[
+    {
+        "allEnvs": [
+            "ppe-test",
+            "production"
+        ]
+    },
+    {
+        "env": "ppe-test",
+        "data": [
+            {
+                "version": "v1",
+                "name": "honeywell5600scanner"
+            },
+            {
+                "version": "v2",
+                "name": "tright"
+            }
+        ]
+    },
+    {
+        "env": "production",
+        "data": [
+            {
+                "version": "v2",
+                "name": "honeywell5600scanner"
+            },
+            {
+                "version": "v3",
+                "name": "tright"
+            }
+        ]
+    }
+]
