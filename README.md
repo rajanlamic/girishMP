@@ -4,7 +4,7 @@
 
 In the project directory, you can run to install:
 
-### `npm start`
+### `npm install`
 
 then you can run to start:
 
